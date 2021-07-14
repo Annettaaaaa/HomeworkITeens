@@ -1,0 +1,5 @@
+print('------')
+print('Name: Ann')
+print('Age: 15')
+print('City: Kyiv')
+print('------')
